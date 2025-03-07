@@ -13,3 +13,4 @@ about: Suggest an idea for this project
 ## Why do you think this feature is something we should consider for the Yoast SEO plugins?
 
 ## Additional context
+## Why do you think this feature is something we should consider for the Yoast SEO plugins updated.
